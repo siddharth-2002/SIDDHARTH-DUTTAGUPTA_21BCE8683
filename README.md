@@ -56,8 +56,13 @@ Develop a turn-based 5x5 board game where two players compete using 5 pieces eac
    ```bash
    npm install
    ```
+4. **Install Dependencies:**
 
-4. **Start the Server:**
+   ```bash
+   cd Server
+   ```
+
+5. **Start the Server:**
 
    ```bash
    node server.js
