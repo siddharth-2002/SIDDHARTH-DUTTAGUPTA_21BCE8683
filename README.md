@@ -69,6 +69,9 @@ Develop a turn-based 5x5 board game where two players compete using 5 pieces eac
    ```
 
 The server will start and listen on port 8080 by default. You can access it at http://localhost:8080.
+##Screenshots
+![Description of Image 1](./IMAGES/EPIC GRID.png)
+![Description of Image 2](./IMAGES/GAME OVER.png)
 
 ## Client Setup 🖥️
 ### Frontend Files:
