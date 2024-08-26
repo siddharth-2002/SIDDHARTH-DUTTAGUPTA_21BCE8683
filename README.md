@@ -73,7 +73,7 @@ The server will start and listen on port 8080 by default. You can access it at h
 ## Screenshots
 
 ### Game Start Screen
-![Game Start Screen](./IMAGES/EPIC_GRID.png)
+![Game Start Screen](https://github.com/siddharth-2002/SIDDHARTH-DUTTAGUPTA_21BCE8683/blob/main/IMAGES/EPIC_GRID.PNG)
 
 ### Game Over Screen
 ![Game Over Screen](./IMAGES/GAME_OVER.png)
