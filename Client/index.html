@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hitwicket Game</title>
+    
+    <!-- Google Fonts and external CSS stylesheet -->
+    <link href="https://fonts.googleapis.com/css2?family=Gotham:wght@400;700&display=swap" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <h1>Epic Grid Clash</h1>
+    
+    <!-- Game board container -->
+    <div id="game-board"></div>
+    
+    <!-- Controls for players to input and submit their moves -->
+    <div id="controls">
+        <div id="player-a-controls">
+            <input type="text" id="player-a-move" placeholder="Player A move (e.g., P1:L)">
+            <button id="player-a-submit">Submit Move</button>
+        </div>
+        <div id="player-b-controls" style="display: none;">
+            <input type="text" id="player-b-move" placeholder="Player B move (e.g., P1:L)">
+            <button id="player-b-submit">Submit Move</button>
+        </div>
+    </div>
+    
+    <!-- Game status display -->
+    <div id="game-status"></div>
+    
+    <!-- Move history and capture history sections -->
+    <div id="move-history">
+        <h2>Move History</h2>
+    </div>
+    <div class="divbox">
+        <h2>Capture History</h2>
+        <div id="capture-history"></div>
+    </div>
+    
+    <!-- External JavaScript file for game logic -->
+    <script src="app.js"></script>
+</body>
+</html>
