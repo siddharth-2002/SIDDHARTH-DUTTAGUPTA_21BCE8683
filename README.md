@@ -43,7 +43,7 @@ Develop a turn-based 5x5 board game where two players compete using 5 pieces eac
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/17kowshik/KOWSHIK-21BCE7146
+   git clone https://github.com/siddharth-2002/SIDDHARTH-DUTTAGUPTA_21BCE8683
    ```
 
 2. **Navigate to the Project Directory:**
